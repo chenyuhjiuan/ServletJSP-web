@@ -1,0 +1,39 @@
+
+#rtlogin{
+	font-size:14;
+	margin-top:50px;
+	position:absolute;
+	right:300px;
+}
+
+#rthome{
+	font-size:14;
+	margin-top:50px;
+	position:absolute;
+	right:400px;
+}
+
+#logout{
+	font-size:14;
+	margin-top:50px;
+	position:absolute;
+	right:300px;
+}
+
+#rtUserMC{
+	font-size:14;
+	margin-top:50px;
+	position:absolute;
+	right:200px;
+}
+
+.pgnow{
+	color:red;
+}
+
+#bottom{
+	width=120px;
+	height=80px;
+	position:absolute;
+	left:590px;
+}
